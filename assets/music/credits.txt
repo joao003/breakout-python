@@ -1,0 +1,39 @@
+0.mp3 = Skyline by Pianochocolate (Free Music Archive)
+1.mp3 = The End is Near by Scott Gratton (Free Music Archive)
+2.mp3 = Jungle Relaxing Music - Forest Music with Birds Sounds (YouTube)
+3.mp3 = Arabic Battle Music by The Great Fortress (YouTube)
+4.mp3 = Medieval and Celtic Music | LANDS by Alex-Productions (FreeStockMusic)
+5.mp3 = Upside Crown by LAZY SALON (Free Music Archive)
+6.mp3 = Palm Beach by Peyruis (FreeStockMusic)
+7.mp3 = Beach by MusicbyAden & Jurgance (FreeStockMusic)
+8.mp3 = Cases to Rest by Blue Dot Sessions (Free Music Archive)
+9.mp3 = Vetur Frosti by Alexander Nakarada (FreeStockMusic)
+10.mp3 = Space Ambience by Alexander Nakarada (FreeStockMusic)
+
+FreeStockMusic:
+
+Palm Beach by Peyruis | https://soundcloud.com/peyruis
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+Beach by MusicbyAden & Jurgance | https://soundcloud.com/musicbyaden
+https://soundcloud.com/jurgance
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+https://creativecommons.org/licenses/by-nd/4.0/
+
+Medieval and Celtic Music | LANDS by Alex-Productions | https://onsound.eu/
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 3.0 Unported License (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/deed.en_US
+
+Vetur Frosti by Alexander Nakarada | https://www.serpentsoundstudios.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Space Ambience by Alexander Nakarada | https://www.serpentsoundstudios.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
