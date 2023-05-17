@@ -20,6 +20,7 @@ This is Breakout game made fully in Python with Pygame library. This is created 
 * Windows 10 64-bit or superior (Never tested on Windows 7 and 8.1. Recent version of Python doesn't support Windows 7, but Windows 8.1 may work)
 * Also works on updated modern Linux distros made from 2020 onwards with [WineHQ](http://www.winehq.org) or chmod +x.
 * Also works on macOS 10.15 or superior.
+* 1600x900 resolution or higher is recommended.
 
 # Warning
 If you want to replace backgrounds and songs from game with anything different, name them with only numbers. DO NOT name them with anything different than numbers, because it will cause game to not run!
