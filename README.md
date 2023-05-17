@@ -4,7 +4,7 @@
 
 ![breakout](https://github.com/joao003/breakout-python/assets/90219319/14620652-a816-450c-b0e8-ede935625bff)
 
-This is Breakout game made fully in Python with Pygame library. This is created to show my skills that I learned from CS50. The objective of this game is to break all the bricks available in the level in order to pass to next level.
+This is Breakout game made fully in Python with Pygame library. This is created to show my skills that I learned from CS50. The objective of this game is to break all the bricks available in the level in order to pass to next level. It is also moddable to suit your needs.
 
 # Controls
 * Arrow keys - Move paddle
@@ -18,7 +18,7 @@ This is Breakout game made fully in Python with Pygame library. This is created 
 * Python must be installed and up-to-date.
 * Pygame must be installed
 * Windows 10 64-bit or later (Never tested on Windows 7 and 8.1. Recent version of Python doesn't support Windows 7, but Windows 8.1 may work)
-* Also works on updated modern Linux distros made from 2020 onwards with [WineHQ](http://www.winehq.org).
+* Also works on updated modern Linux distros made from 2020 onwards with [WineHQ](http://www.winehq.org) or chmod +x.
 
 # Credits
 * Skyline by Pianochocolate (Free Music Archive)
