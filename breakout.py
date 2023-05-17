@@ -184,6 +184,26 @@ nextpaddlecolorbutton = button(sc, (480, 510), ">")
 eraseconfirmbutton = button(sc, (260, 230), "Yes")
 erasenobutton = button(sc, (340, 230), "No")
 
+#Main menu Buttons variables
+playbutton = button(sc, (480, 400), "Play")
+helpbutton = button(sc, (480, 480), "Help")
+optionsbutton = button(sc, (480, 560), "Options")
+exitbutton = button(sc, (480, 640), "Exit")
+
+#Pause buttons variables
+reducesoundvolumebutton = button(sc, (300, 250), "-")
+increasesoundvolumebutton = button(sc, (400, 250), "+")
+reducesongvolumebutton = button(sc, (300, 340), "-")
+increasesongvolumebutton = button(sc, (400, 340), "+")
+giveupbutton = button(sc, (300, 430), "Give Up")
+
+confirmbutton = button(sc, (260, 230), "Yes")
+nobutton = button(sc, (340, 230), "No")
+
+#Game over buttons variables
+retrybutton = button(sc, (300, 320), "Retry")
+backtomainscreenbutton = button(sc, (400, 320), "Back to Main Screen")
+
 #Help variables (including buttons)
 helpindex = 1
 helpindexsection = "Introduction"
