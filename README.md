@@ -18,7 +18,7 @@ This is Breakout game made fully in Python with Pygame library. This is created 
 * Python must be installed and up-to-date.
 * Pygame must be installed
 * Windows 10 64-bit or later (Never tested on Windows 7 and 8.1. Recent version of Python doesn't support Windows 7, but Windows 8.1 may work)
-* Also works on modern Linux distros with [WineHQ](http://www.winehq.org).
+* Also works on updated modern Linux distros made from 2020 onwards with [WineHQ](http://www.winehq.org).
 
 # Credits
 * Skyline by Pianochocolate (Free Music Archive)
