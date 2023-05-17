@@ -21,7 +21,7 @@ This is Breakout game made fully in Python with Pygame library. This is created 
 * Also works on updated modern Linux distros made from 2020 onwards with [WineHQ](http://www.winehq.org) or chmod +x.
 
 # Warning
-If you want to replace backgrounds and songs from game with anything different, name them with only numbers. DO NOT name them with anything more than numbers, because it will cause game to not run!
+If you want to replace backgrounds and songs from game with anything different, name them with only numbers. DO NOT name them with anything different than numbers, because it will cause game to not run!
 
 # Credits
 * Skyline by Pianochocolate (Free Music Archive)
