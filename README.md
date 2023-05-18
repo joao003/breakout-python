@@ -4,7 +4,7 @@
 
 ![breakout](https://github.com/joao003/breakout-python/assets/90219319/14620652-a816-450c-b0e8-ede935625bff)
 
-This is Breakout game made fully in Python with Pygame library. This is created to show my skills that I learned from CS50. The objective of this game is to break all the bricks available in the level in order to pass to next level. It is also moddable to suit your needs.
+This is Breakout game made fully in Python with Pygame library. This is created to show my skills that I learned from CS50. The objective of this game is to break all the bricks available in the level in order to pass to next level.
 
 # Controls
 * Arrow keys - Move paddle
