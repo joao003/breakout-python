@@ -15,7 +15,7 @@ This is Breakout game made fully in Python with Pygame library. This is created 
 * Sphere can be stuck on right side of screen sometimes. The solution is let it fall off.
 
 # Requirements
-* Python must be installed and up-to-date.
+* Python 3 must be installed and up-to-date.
 * Pygame must be installed
 * Windows 10 64-bit or superior (Never tested on Windows 7 and 8.1. Recent version of Python doesn't support Windows 7, but Windows 8.1 may work)
 * Also works on updated modern Linux distros made from 2020 onwards with [WineHQ](http://www.winehq.org) or chmod +x.
